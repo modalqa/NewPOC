@@ -1,0 +1,12 @@
+{
+  "name": "k6loadtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "k6 run login.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

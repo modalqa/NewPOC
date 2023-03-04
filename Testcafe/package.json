@@ -1,7 +1,7 @@
 {
   "name": "testcafe",
   "version": "1.0.0",
-  "description": "",
+  "description": "ini deskripsi",
   "main": "index.js",
   "scripts": {
     "test": "testcafe chrome login.test.js",
